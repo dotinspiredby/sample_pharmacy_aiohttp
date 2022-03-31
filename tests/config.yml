@@ -1,0 +1,11 @@
+session:
+  key: CaY5iCkYtN7DqXdiYK1BvmGrQuaSA4Tl4bEk9my0jc0=
+admin:
+  login: pharmadmin
+  password: hellotest
+database:
+  host: local_pg
+  port: 5432
+  user: postgres
+  password: kkk123
+  database: pharmasys
